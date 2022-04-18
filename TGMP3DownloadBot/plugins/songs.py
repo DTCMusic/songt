@@ -26,7 +26,7 @@ def song(client, message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    m = message.reply('Searching 🔍 Your MP3 Song, Please Wait\n~ @fastsongdownloderslbzbot ⭕️')
+    m = message.reply(' 🔍 Axtarıram... Zəhmət olmasa gözləyin')
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
