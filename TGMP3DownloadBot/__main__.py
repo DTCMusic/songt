@@ -8,14 +8,14 @@ from TGMP3DownloadBot import MP3DownloadBot as app
 from TGMP3DownloadBot import LOGGER
 
 pm_start_text = """
- 🎧 Telegram Song  Download Bot 🎧
+ 🎧 Telegram Mahnı Yükləmə Botu 🎧
+Salam [{}](tg://user?id={}) 👋 Mən Telegram manhi  yükləyən Botu 🎧
 
-Hey [{}](tg://user?id={}) 👋 I'm Telegram song  Download Bot 🎧
+⚫ İstədiyiniz Mahnını MP3 şəklində yükləyə bilərsiz✨: `/song upamawak `
 
-Just Send me ✍️   The MP3 Name 👍   You Want to Download 👌
-📜 Example: `/song upamawak `
+⚪ 𝐍𝐮̈𝐦𝐮𝐧𝐞: /song zawanbeatsz
 
-~ @fastsongdownloderslbzbot 🤖 
+~ 🛠️ 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 @SOQrup  
 """
 
 
@@ -29,24 +29,24 @@ async def start(client, message):
             [
                     [
                         InlineKeyboardButton(
-                             text=" 👪 Bot Support Group ",
-                             url="https://t.me/slbotzone"),
+                             text=" 🛠️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭 ",
+                             url="https://t.me/SOQrup"),
                          InlineKeyboardButton(
-                             text=" 🔔 Bot Update Channel ",
-                             url="https://t.me/sl_bot_zone")
+                             text=" 🔔 𝐘𝐞𝐧𝐢𝐥𝐢𝐤𝐥𝐞𝐫 𝐊𝐚𝐧𝐚𝐥ı ",
+                             url="https://t.me/ledyplaylist")
                     ],
                     [
                         InlineKeyboardButton(
-                             text=" 📦 Github Socure Code ",
-                             url="https://github.com/youtubeslgeekshow/Telegram-Music-Download-Bot"),
+                             text="👨‍💻 𝐒𝐚𝐡𝐢𝐛 ",
+                             url="https://t.me/Tenha055"),
                          InlineKeyboardButton(
-                             text=" 💝 Subscribe Our Youtube  Channel ",
-                             url="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA")
+                             text=" 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 ",
+                             url="https://t.me/musicplayerasistant_bot")
                     ],
                     [
                         InlineKeyboardButton(
-                            text=" ⚡️ Developer ",
-                             url="https://t.me/supunma") 
+                            text=" ⚜️ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ",
+                             url="https://t.me/ruzgar_alican") 
                     
                     ]
             ]
