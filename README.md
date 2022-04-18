@@ -1,7 +1,6 @@
 <h1>  Telegram Song Download Bot ❤ </h1>
 
-## You can download any song using this bot. Can be found in telegram as
-[@fastsongdownloderslbzbot](https://t.me/fastsongdownloderslbzbot)
+## You can download any song using this bot. Can be found in telegram a
 
 <img align="right" src="https://github.com/AzeMusic/raw/main/Developer.gif" style="max-width:100%;">
 <img align="senter" src="https://telegra.ph/file/6a770aa935e5b53dbf20e.jpg" style="max-width:100%;">
