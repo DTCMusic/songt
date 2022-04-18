@@ -44,11 +44,11 @@ def song(client, message):
 
     except Exception as e:
         m.edit(
-            "Sorry 🙏 You're MP3 Song is Not Found 🖐 Please Try Another Keyword 👊\n\n~ @fastsongdownloderslbzbot ⭕️"
+            "Bağışlayın, manhı tapılmadı •  **Başqa Açar Sözü Yoxlayın**"
         )
         print(str(e))
         return
-    m.edit("Downloading 💪 Your MP3 Song, Please Wait\n~ @fastsongdownloderslbzbot ⭕️")
+    m.edit("📥 Mahnı Yüklənir , Zəhmət olmasa Gözləyin")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
