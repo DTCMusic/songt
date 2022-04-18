@@ -58,5 +58,5 @@ async def start(client, message):
 
 
 app.start()
-LOGGER.info("TG Song  Download Bot is online 👨‍💻 .")
+LOGGER.info("TG Mahnı Yükləmə Botu onlayndır 👨‍💻 .")
 idle()
