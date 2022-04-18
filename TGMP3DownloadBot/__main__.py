@@ -52,7 +52,7 @@ async def start(client, message):
             ]
         ),
     else:
-        btn = None
+   
     await message.reply(pm_start_text.format(name, user_id), reply_markup=btn)
     add_chat_to_db(str(chat_id))
 
