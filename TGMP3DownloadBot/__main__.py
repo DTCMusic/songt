@@ -11,9 +11,9 @@ pm_start_text = """
  🎧 Telegram Mahnı Yükləmə Botu 🎧
 Salam [{}](tg://user?id={}) 👋 Mən Telegram manhi  yükləyən Botu 🎧
 
-⚫ İstədiyiniz Mahnını MP3 şəklində yükləyə bilərsiz✨: `/song upamawak `
+⚫ İstədiyiniz Mahnını MP3 şəklində yükləyə bilərsiz✨: `/song Iman Zaman - Qızım Qızım`
 
-⚪ 𝐍𝐮̈𝐦𝐮𝐧𝐞: /song zawanbeatsz
+⚪ 𝐍𝐮̈𝐦𝐮𝐧𝐞: `/song zawanbeatsz`
 
 ~ 🛠️ 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 @SOQrup  
 """
