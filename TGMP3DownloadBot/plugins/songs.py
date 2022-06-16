@@ -1,5 +1,5 @@
-# Plugin by @Mr_Dark_Prince
-# TG_MP3_Download_Bot
+# Plugin by @Thagiyevvvv
+# KarabakhsongBot
 
 import os
 import requests
