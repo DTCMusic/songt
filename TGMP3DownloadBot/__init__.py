@@ -10,4 +10,4 @@ logging.basicConfig(
 
 LOGGER = logging.getLogger(__name__)
 
-MP3DownloadBot = Client("TGMP3DownloadBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
+MP3DownloadBot = Client("KarabakhsongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
