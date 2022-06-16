@@ -1,4 +1,4 @@
-# TG_MP3_Download_Bot
+# KarabakhsongBot
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from TGMP3DownloadBot.plugins import *
