@@ -15,7 +15,7 @@ Salam [{}](tg://user?id={}) 👋 Mən Telegram manhi  yükləyən Botu 🎧
 
 ⚪ 𝐍𝐮̈𝐦𝐮𝐧𝐞: `/song zawanbeatsz`
 
-~ 🛠️ 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 @SOQrup  
+~ 🛠️ 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 @karabakhteamm
 """
 
 
@@ -30,23 +30,23 @@ async def start(client, message):
                     [
                         InlineKeyboardButton(
                              text=" 🛠️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭 ",
-                             url="https://t.me/SOQrup"),
+                             url="https://t.me/karabakhteamm"),
                          InlineKeyboardButton(
                              text=" 🔔 𝐘𝐞𝐧𝐢𝐥𝐢𝐤𝐥𝐞𝐫 𝐊𝐚𝐧𝐚𝐥ı ",
-                             url="https://t.me/ledyplaylist")
+                             url="https://t.me/RiyaddBlog")
                     ],
                     [
                         InlineKeyboardButton(
                              text="👨‍💻 𝐒𝐚𝐡𝐢𝐛 ",
-                             url="https://t.me/Tenha055"),
+                             url="https://t.me/Thagiyevvvv"),
                          InlineKeyboardButton(
                              text=" 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 ",
-                             url="https://t.me/musicplayerasistant_bot")
+                             url="https://t.me/karabakhsongbot")
                     ],
                     [
                         InlineKeyboardButton(
                             text=" ⚜️ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ",
-                             url="https://t.me/ruzgar_alican") 
+                             url="https://t.me/Thagiyevvvv") 
                     
                     ]
             ]
