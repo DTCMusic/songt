@@ -1,4 +1,4 @@
-# TG_MP3_Download_Bot 
+# KarabakhsongBot
 
 from os.path import dirname, basename, isfile, join
 import glob
