@@ -1,4 +1,4 @@
-# TG_MP3_Download_Bot
+# KarabakhSongbot
 
 import os
 API_ID = int(os.getenv("API_ID"))
